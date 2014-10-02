@@ -12,14 +12,21 @@ namespace practica1p
 {
 	class Program
 	{
-		public static void Main(string[] args)
+		  public static void sacardatos(){
+			Console.WriteLine("ingrese procucto");
+		     int cantidad;
+		    cantidad=int.Parse (Console.ReadLine());
+		    Console.WriteLine("ingrese descripcion del producto");
+		    String desc;
+		    desc=Console.ReadLine();
+		    Console.WriteLine("ingresa precio unitario");
+		     int precio;
+		    precio=int.Parse (Console.ReadLine());
+		    
+		}
+		 static void Main()
 		{
-			Console.WriteLine("Hello World!");
-			
-			// TODO: Implement Functionality Here
-			
-			Console.Write("Press any key to continue . . . ");
-			Console.ReadKey(true);
+		 	sacardatos();
 		}
 	}
 }

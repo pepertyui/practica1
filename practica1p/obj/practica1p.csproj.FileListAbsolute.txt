@@ -1,0 +1,5 @@
+C:\Users\BETY\Desktop\pepe\repositorios\practica1\practica1p\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BETY\Desktop\pepe\repositorios\practica1\practica1p\bin\Debug\practica1p.exe
+C:\Users\BETY\Desktop\pepe\repositorios\practica1\practica1p\bin\Debug\practica1p.pdb
+C:\Users\BETY\Desktop\pepe\repositorios\practica1\practica1p\obj\Debug\practica1p.exe
+C:\Users\BETY\Desktop\pepe\repositorios\practica1\practica1p\obj\Debug\practica1p.pdb
